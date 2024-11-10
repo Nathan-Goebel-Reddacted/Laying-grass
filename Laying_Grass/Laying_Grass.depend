@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1730452155 source:c:\users\user\desktop\cour\sgbd\laying_grass\src\player.cpp
+	"Player.hpp"
+	<iostream>
+
+1730451408 c:\users\user\desktop\cour\sgbd\laying_grass\include\player.hpp
+	<iostream>
+
+1730473862 source:c:\users\user\desktop\cour\sgbd\laying_grass\main.cpp
+	<iostream>
+	"Player.hpp"
+	"Board.hpp"
+
+1730474289 source:c:\users\user\desktop\cour\sgbd\laying_grass\src\board.cpp
+	"Board.hpp"
+	"Cell.hpp"
+	<iostream>
+
+1730470706 c:\users\user\desktop\cour\sgbd\laying_grass\include\board.hpp
+	<vector>
+	"Cell.hpp"
+
+1730469816 source:c:\users\user\desktop\cour\sgbd\laying_grass\src\cell.cpp
+	"Cell.hpp"
+	<iostream>
+
+1730470016 c:\users\user\desktop\cour\sgbd\laying_grass\include\cell.hpp
+
+1730795529 source:c:\users\user\desktop\cour\c++\laying_grass\src\player.cpp
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+
+1730712419 c:\users\user\desktop\cour\c++\laying_grass\include\player.hpp
+	<iostream>
+
+1731050946 source:c:\users\user\desktop\cour\c++\laying_grass\main.cpp
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+
+1730795529 c:\users\user\desktop\cour\c++\laying_grass\include\board.hpp
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+
+1730795529 c:\users\user\desktop\cour\c++\laying_grass\include\cell.hpp
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+	<string>
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+
+1731139885 source:c:\users\user\desktop\cour\c++\laying_grass\src\board.cpp
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+
+1730795529 source:c:\users\user\desktop\cour\c++\laying_grass\src\cell.cpp
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+
+1731049509 source:c:\users\user\desktop\cour\c++\laying_grass\src\piece.cpp
+	"Player.hpp"
+	"Board.hpp"
+	"Cell.hpp"
+	"Piece.hpp"
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+	<stdexcept>
+
+1731049509 c:\users\user\desktop\cour\c++\laying_grass\include\piece.hpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+	<iostream>
+	<random>
+	<algorithm>
+	<queue>
+
